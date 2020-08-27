@@ -1,4 +1,4 @@
-# Factsapp
+# Fun Facts App
 ### What Is It?
 
 This Application is implemented in Python.</br>
