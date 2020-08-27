@@ -1,8 +1,12 @@
-# Fun Facts App
+# Chuck Facts
+Ever wanted random chuck norris facts sent to you? Well look no further, your search ends here.<br/>
+What did you say? you want it in an image too? guess what already taken care of.
+
 ### What Is It?
 
 This Application is implemented in Python.</br>
-It gathers random facts/jokes on Chuck Norris through API calls and converts it into image and sends the mail consisting of these facts to the receipents you wish to send.
+It gathers random facts/jokes on Chuck Norris through API calls and converts it into an image and sends the mail consisting of these facts to the recipients you wish to send.
+<br/>
 <br/>
 <img src="https://raw.githubusercontent.com/Kriz01/factsapp/master/readme.png" width="400px">
 
