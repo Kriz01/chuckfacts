@@ -16,14 +16,15 @@ It gathers random facts/jokes on Chuck Norris through API calls and converts it 
 
 ### Installation
 
-Please change the config.py with your credentials.</br>
-You can get the API_KEY from https://rapidapi.com/matchilling/api/chuck-norris</br>
-Clone the git repository
-```bash
-        git clone
-```
-Run the below command on command line to start the Application</br>
-```bash
-        python mail.py
-```
+* Clone the git repository
+  ```bash
+  git clone https://github.com/Kriz01/factsapp.git
+  cd factsapp
+  ```
+* Please change the config.py with your credentials.</br>
+  You can get the API_KEY from https://rapidapi.com/matchilling/api/chuck-norris</br>
+* Run the below command on command line to start the Application</br>
+  ```bash
+  python mail.py
+  ```
 
