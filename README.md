@@ -22,8 +22,8 @@ It gathers random facts/jokes on Chuck Norris through API calls and converts it 
 
 * Clone the git repository
   ```bash
-  git clone https://github.com/Kriz01/factsapp.git
-  cd factsapp
+  git clone https://github.com/Kriz01/chuckfacts.git
+  cd chuckfacts
   ```
 * Please change the config.py with your credentials.</br>
   You can get the API_KEY from https://rapidapi.com/matchilling/api/chuck-norris</br>
