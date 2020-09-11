@@ -13,8 +13,8 @@ It gathers random facts/jokes on Chuck Norris through API calls, generates an im
 ### Prerequisites
 * Python3 has to be installed
 * Installation of below modules is required 
-  * python3 -m pip install --upgrade pip
-  * python3 -m pip install -r requirements.txt
+  * python -m pip install --upgrade pip
+  * python -m pip install -r requirements.txt
 
 
 ### Installation
